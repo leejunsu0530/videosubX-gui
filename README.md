@@ -1,5 +1,7 @@
 # videosubX-gui
-https://www.gradio.app/guides/dynamic-apps-with-render-decorator 
+https://www.gradio.app/guides/dynamic-apps-with-render-decorator
+
+https://www.gradio.app/guides/custom-CSS-and-JS 
 
 PySide6 based gui of videosubX
 버전관리는 따로 하고, git clone으로 사용하는 등의 방식으로 만들기 위해 메인에서 분리함. 
