@@ -1,4 +1,7 @@
 # videosubX-gui
+
+gradio 기반 간단한 데모 gui는 저쪽에 넣어놓고 여기엔 qt 기반 gui로 하기.
+
 https://www.gradio.app/guides/dynamic-apps-with-render-decorator
 
 https://www.gradio.app/guides/custom-CSS-and-JS 
